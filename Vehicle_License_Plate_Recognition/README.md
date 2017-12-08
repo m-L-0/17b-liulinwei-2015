@@ -2,7 +2,7 @@
 
 ## 使用卷积神经网络对分割好的车牌字符进行识别
 
-### 主要操作：
+### 主要内容：
 
 1. [将分类好的图片及其标签序号存入到TFRecord文件中。](https://github.com/m-L-0/17b-liulinwei-2015/blob/master/Vehicle_License_Plate_Recognition/code/tf_write_read.ipynb)
 
@@ -13,4 +13,6 @@
 4. [利用测试集对卷积神经网络进行检测，并得到识别正确率,召回率。](https://github.com/m-L-0/17b-liulinwei-2015/blob/master/Vehicle_License_Plate_Recognition/code/CNN.ipynb)
 
 5. [统计每类字符的数量与比例并利用图表展示(直方图、饼状图)](https://github.com/m-L-0/17b-liulinwei-2015/blob/master/Vehicle_License_Plate_Recognition/code/Draw%20diagrams.ipynb)
+
+6. [总结](https://github.com/m-L-0/17b-liulinwei-2015/blob/master/Vehicle_License_Plate_Recognition/%E6%80%BB%E7%BB%93.md)
 
